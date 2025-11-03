@@ -1,0 +1,18 @@
+Integrantes del equipo:
+Brayan Moisés Díaz Rodríguez
+Carlos Enrique Niño Mérida
+Jesús Adrián Díaz Aguilar
+
+Descripción del Proyecto
+
+Este mini sitio web en PHP fue desarrollado con el objetivo de mostrar ejemplos prácticos del uso de estructuras de control y arreglos del lado del servidor. El proyecto incluye cuatro páginas principales (index.php, condicionales.php, bucles.php, arreglos.php) interconectadas mediante un menú de navegación común, reutilizando el encabezado y pie de página con la función include().
+
+Las estructuras utilizadas incluyen:
+
+Condicionales: if, else, elseif y switch para tomar decisiones basadas en valores de variables o elementos de arreglos.
+
+Bucles: for, while y foreach para recorrer listas de datos y mostrar resultados dinámicos.
+
+Arreglos: se emplean arreglos indexados, asociativos y multidimensionales para organizar y procesar información, combinándolos con condicionales y bucles para generar contenido dinámico.
+
+El diseño se implementó con HTML y CSS externos, manteniendo una estructura ordenada, clara y modular.
